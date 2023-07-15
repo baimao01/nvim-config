@@ -1,6 +1,6 @@
 [中文版](./README-CN.md)
 ## How to install
-> You need at least 0.9 version of nvim(nvim nightly).
+> You need at least 0.10.0 version of nvim(nvim nightly).
 
 ### windows
 Copy the `lua` folder and `init.lua` file to your `C:\Users\(Your username)AppData\Local\nvim` directory.
